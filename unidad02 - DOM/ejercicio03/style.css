@@ -1,0 +1,17 @@
+/* Estilos para los div internos */
+.color-div {
+    width: 100px;
+    height: 100px;
+    margin: 14px;
+    display: inline-block;
+    cursor: pointer;
+    border: solid 1px black;
+}
+
+/* Estilo inicial del div padre */
+#contenedor {
+    width: 400px;
+    height: 140px;
+    background-color: rgb(145, 126, 126);
+    padding: 20px;
+}
